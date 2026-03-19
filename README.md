@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer and robotics engineerin
 
 ## 📫 How to reach me / 联系我
 
-* 📧 **Email / 邮箱:** 你的QQ号码@qq.com
+* 📧 **Email / 邮箱:** 3516114795@qq.com
 
 ---
 *"Always eager to collaborate on exciting projects and learn from the community!"*
