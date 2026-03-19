@@ -31,9 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer and robotics engineerin
 * 📱 **Social Media / 活跃平台:** Little Red Book (小红书), Douyin (抖音)
 
 ## 📫 How to reach me / 联系我
-
 * 📧 **Email / 邮箱:** 3516114795@qq.com
-
 ---
 *"Always eager to collaborate on exciting projects and learn from the community!"*
 *“永远保持热情，期待与开源社区的伙伴们一起合作有趣的项目！”*
